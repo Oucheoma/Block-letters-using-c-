@@ -2,31 +2,10 @@
 #include <iostream>
 
 int main (){
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "u";     std::cout << "       u\n";
-  std::cout << "  u";
-  std::cout << "  u";
-  std::cout << "  u/n";
-
-
-
-  std::cout << "  c\n";
-  std::cout << "  c";
-  std::cout << "  c";
-  std::cout << "  c\n";
-  std::cout << "c\n";
-  std::cout << "c\n";
-  std::cout << "c\n";
-  std::cout << "c\n";
-  std::cout << "c\n";
-  std::cout << "c\n";
-  std::cout << "  c";
-  std::cout << "  c";
-  std::cout << "  c\n";
-
+  std::cout << "u          u             c c c c\n";
+  std::cout << "u          u            c    \n";
+  std::cout << "u          u            c    \n";
+  std::cout << "u          u     * *    c    \n";
+  std::cout << "  u u u u        * *     c c c c\n";
 
 }
